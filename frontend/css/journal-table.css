@@ -145,7 +145,7 @@
   padding-left: 8px;
   overflow: hidden;
   text-overflow: ellipsis;
-  white-space: nowrap;
+  white-space: normal;
 }
 
 .journal .show-postings .description {
